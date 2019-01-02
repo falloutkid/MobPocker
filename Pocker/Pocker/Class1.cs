@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Pocker
+namespace Poker
 {
     public class Class1
     {
